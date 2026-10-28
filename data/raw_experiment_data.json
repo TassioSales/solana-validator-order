@@ -1,0 +1,1714 @@
+[
+  {
+    "slot": 462530797,
+    "leader": "CwyVpfmfSiMeCexi3JgUNvaiDfYN14cLDjzT99zcBuD2",
+    "client_version": "4.3.2",
+    "block_time": 1793202115,
+    "tx_count": 246,
+    "jito_bundle_count": 17,
+    "avg_jito_index": 129.0,
+    "pct_jito_in_top_10pct": 0.0,
+    "spearman_corr_price_index": -0.0189407592995199,
+    "monotonic_priority_adherence": 0.4751689685571554,
+    "transactions_sample": [
+      {
+        "index": 0,
+        "signature": "2VgruJMaYiWsJm558APLiXtFPZ5n9HvrTSZsZuhEnK1i57pLurPivM5ruUmAhNiaud7M29uPSWh1JFSXi5kH6nGh",
+        "cu_price": 1000000,
+        "cu_limit": 1218,
+        "fee": 6218,
+        "has_jito_tip": false,
+        "compute_consumed": 1118,
+        "success": true
+      },
+      {
+        "index": 1,
+        "signature": "43RgRWo7Pa9sGHyPhUL6AfQuMjzewANxSA2f2YxTAbH3C6icA2Bus2S9BggvprAmwSA8MvY77RrC9UT2eztVHA9R",
+        "cu_price": 26200,
+        "cu_limit": 5000,
+        "fee": 5131,
+        "has_jito_tip": false,
+        "compute_consumed": 2363,
+        "success": true
+      },
+      {
+        "index": 2,
+        "signature": "2NXcFTrW3QmMyFSc3HFZsbNN9S8aiNdGkkYaUzET5bo27JBwvhF2DkTMcH5WpPmfLUJYHcEdxn3rZXug9jrEc9iv",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 64,
+        "success": false
+      },
+      {
+        "index": 3,
+        "signature": "2ewZLtGDp5RDmpB2Xb9HFAxeHcjcXNVmyahgGznsCB9rYhZrZrAfRCwzCtufNoPV5pFAS2FwpAiSm55ECdNB9BAJ",
+        "cu_price": 0,
+        "cu_limit": 800,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 512,
+        "success": true
+      },
+      {
+        "index": 4,
+        "signature": "KStY6DfMqZEXMs8ExfzoxeyViBLuoL2oqgzW9yQe2687pY8Nug3LKb2FL88sf1mPqXDb46NqJQSz4A94YmMb3eM",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5348,
+        "has_jito_tip": false,
+        "compute_consumed": 48,
+        "success": true
+      },
+      {
+        "index": 5,
+        "signature": "5YopZaJRgZVwF6PpqAQVdWVu9aj8ac7CYdyEogLEUsSg9LxWdtXucckwaBpT8onZx3HgbcvxbPR7JuWWzWrDm71x",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 64,
+        "success": false
+      },
+      {
+        "index": 6,
+        "signature": "3MAbzbfhLReDxJaDTTCABw59Sbw2YP8AJWWG2gfGMjwMSzW1DeLLQabG1t6hRUKG4epEgkkapfmR872MbGTfgpgY",
+        "cu_price": 0,
+        "cu_limit": 800,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 512,
+        "success": true
+      },
+      {
+        "index": 7,
+        "signature": "48EScEAmRkQ2zVmicDe72dAKh9ae7kPU9CLPNT6HhKfFNGbeSBqyNSCiW7vbRjkHdNguWuNUqBcqVLThz5AWSPmT",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 72819,
+        "has_jito_tip": false,
+        "compute_consumed": 86437,
+        "success": true
+      },
+      {
+        "index": 8,
+        "signature": "5Cs5HnaDtnUHgib8ZvMC34sTdUo4Fo6f1j9sjcsx3k87tBdQRtpZyVoG4ay4WgRLyoRhirfAV35jVBk275TPSgPD",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 17444,
+        "has_jito_tip": false,
+        "compute_consumed": 1144,
+        "success": true
+      },
+      {
+        "index": 9,
+        "signature": "4iv7TdtdMw4GdhQAFRB2yoEHN5Qn7MjvxNucxyrWC7nLtvHeVFNJrQwgoE2HRhpiiRpxq6SUTnQk3AUqNmUFaxub",
+        "cu_price": 50,
+        "cu_limit": 200000,
+        "fee": 5011,
+        "has_jito_tip": false,
+        "compute_consumed": 23539,
+        "success": true
+      },
+      {
+        "index": 10,
+        "signature": "8hgpea3uKnXZtCoamjhKDxU69foZGNe18zEcMLV2KPvckA7QcMmUx6mGwTDYV2TX2hrjjbT9LZnhPVrDPB48kJa",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 17444,
+        "has_jito_tip": false,
+        "compute_consumed": 567,
+        "success": true
+      },
+      {
+        "index": 11,
+        "signature": "48TybhgRq75uAAsc2qduuTq8Y1kXA3jhJVWBWXwBLMquYYN9bdURAb4xjzC9XiK8qb3ouHsCbfeChzix8cQ65zG8",
+        "cu_price": 510,
+        "cu_limit": 200000,
+        "fee": 5410,
+        "has_jito_tip": false,
+        "compute_consumed": 35946,
+        "success": true
+      },
+      {
+        "index": 12,
+        "signature": "274orYVuNGZU97Qyow3j7AMvN6LENbYGYJCicQTsqRLKp2tephYomuPPFuL8GzPcnoCsBoiy22pf6i77t8GkmZrx",
+        "cu_price": 510,
+        "cu_limit": 200000,
+        "fee": 5410,
+        "has_jito_tip": false,
+        "compute_consumed": 34475,
+        "success": true
+      },
+      {
+        "index": 13,
+        "signature": "2nyNSpJ6wgacatsh3oxiYAVA2rcpbY2ue2r6b4nHdZM1KTkStKGpBHX9VpkNAz2gxNTdfMqC1LKPvzcAJcq6bZ8L",
+        "cu_price": 0,
+        "cu_limit": 300000,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 57072,
+        "success": true
+      },
+      {
+        "index": 14,
+        "signature": "2mCu3CvHLAvNd5cp4Z82xqXV8kd8XffXysNV3ZFVZfLhb9QQPhy7ineufNPbqscfutDKU9zLqp4pUkdT9Q7a9aaN",
+        "cu_price": 510,
+        "cu_limit": 200000,
+        "fee": 5514,
+        "has_jito_tip": false,
+        "compute_consumed": 35938,
+        "success": true
+      },
+      {
+        "index": 15,
+        "signature": "27jZTHoYXe73WoZxbW5YJ9wWUVxSjmm4ZS2Gy8DyZg92thyNKiEfr1zWoM6oqJfHLRvoGPgRTck5yZVq87pkmqLG",
+        "cu_price": 510,
+        "cu_limit": 200000,
+        "fee": 5514,
+        "has_jito_tip": false,
+        "compute_consumed": 37465,
+        "success": true
+      },
+      {
+        "index": 16,
+        "signature": "5iDGeJPE2HNDk4HmmVZAoonAaQEadGz2E6RhvwBG4dkk6ajNkdZAsjmrLbgoRREepX7veskXGtVBjXAx7W5JJoJw",
+        "cu_price": 125000,
+        "cu_limit": 500000,
+        "fee": 67500,
+        "has_jito_tip": false,
+        "compute_consumed": 178352,
+        "success": true
+      },
+      {
+        "index": 17,
+        "signature": "2GUEinZiDDugBSQ8Cv53YvtvPQyQASte1xj5HBNaFT99Y1uohu4uEmsjFDGqUpwChDgLwJrJMph1pmcw9n6QJR6E",
+        "cu_price": 43,
+        "cu_limit": 85000,
+        "fee": 5004,
+        "has_jito_tip": false,
+        "compute_consumed": 47631,
+        "success": true
+      },
+      {
+        "index": 18,
+        "signature": "2WH981EBwbyxAm5Vpz2KaU6mNvUt66D2FcCoGURHwRYzsNcFM67Kj28EjkXx8jaPqGiCHL1C7eCnoWVS5oYAYP3p",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 8718,
+        "has_jito_tip": false,
+        "compute_consumed": 174914,
+        "success": true
+      },
+      {
+        "index": 19,
+        "signature": "qkLJS3KoHnbJJY4B6Jr8L9txEgLC3PW4sBBKD4VzBiwUdi4SdHvBBJr7FTYP1G8wAYphs7u4voLEyNYJhLLNRWz",
+        "cu_price": 34,
+        "cu_limit": 85000,
+        "fee": 5003,
+        "has_jito_tip": false,
+        "compute_consumed": 49131,
+        "success": true
+      }
+    ]
+  },
+  {
+    "slot": 462530798,
+    "leader": "CwyVpfmfSiMeCexi3JgUNvaiDfYN14cLDjzT99zcBuD2",
+    "client_version": "4.3.2",
+    "block_time": 1793202115,
+    "tx_count": 319,
+    "jito_bundle_count": 21,
+    "avg_jito_index": 135.38095238095238,
+    "pct_jito_in_top_10pct": 0.19047619047619047,
+    "spearman_corr_price_index": -0.05008024426561935,
+    "monotonic_priority_adherence": 0.5630290551361244,
+    "transactions_sample": [
+      {
+        "index": 0,
+        "signature": "Gkyxv16MUec3Ae5nhGfMCDFcCG1wh6AH42tKAWxERtpRjdnRrmJNSujf4YEfwusjW2gxK2Fv5zG3LuiZ5yB93XF",
+        "cu_price": 1000000,
+        "cu_limit": 1218,
+        "fee": 6218,
+        "has_jito_tip": false,
+        "compute_consumed": 1118,
+        "success": true
+      },
+      {
+        "index": 1,
+        "signature": "5SPLUUmzpHtSv8NvLkPbjf1kkLpV7VvpbttvBfuBKwZs1yPPVsxzQoWRtc7mDqooUbJoGpQjsuE44MT1WJvZAk46",
+        "cu_price": 1000000,
+        "cu_limit": 338,
+        "fee": 5338,
+        "has_jito_tip": false,
+        "compute_consumed": 338,
+        "success": true
+      },
+      {
+        "index": 2,
+        "signature": "d1Nvet8b5QoYLU7tJwodtgndRE8BM8wQE9XqmrmBsXpvLoaR4tzFvKb9BwucXT97U6sgVUk63NYTYNowhZQ2ocH",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 64,
+        "success": false
+      },
+      {
+        "index": 3,
+        "signature": "24PQcS5DdydjeiMB7m1RZtacWqyzrC5ZaQPeQY6VmQykXgWteCvjEaTJbjNXr5bRZcrNtDKEW8WVPjFWqHY5BfC5",
+        "cu_price": 100000000,
+        "cu_limit": 500,
+        "fee": 55000,
+        "has_jito_tip": false,
+        "compute_consumed": 450,
+        "success": true
+      },
+      {
+        "index": 4,
+        "signature": "5mkNV84awTiXHDD25jM58va272VvG5BiXfRztvvXfsbcaxyPd4XRX46tMgv5bk486Mvqj3SFTHkd33YFn2FUizLb",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 6208,
+        "has_jito_tip": false,
+        "compute_consumed": 979,
+        "success": true
+      },
+      {
+        "index": 5,
+        "signature": "RYM6ZctLM2VnkvQHZrSJY6ZNwQFJyQJcyRdfP3cBVHiCE7gHJqm5NR3MQCeYyyA87R5YNLtkgC4p5dEpEnGWgKf",
+        "cu_price": 1000000,
+        "cu_limit": 338,
+        "fee": 5338,
+        "has_jito_tip": false,
+        "compute_consumed": 338,
+        "success": true
+      },
+      {
+        "index": 6,
+        "signature": "5rVk1LuY8kMDMXr8dXV5YamQJ4fJcGi2XBuzGCs7FdgvZctP4umMy22sZ3Hp7yzaxgdCpnpMexNWtU3oXAjM8MZe",
+        "cu_price": 26200,
+        "cu_limit": 5000,
+        "fee": 5131,
+        "has_jito_tip": false,
+        "compute_consumed": 2363,
+        "success": true
+      },
+      {
+        "index": 7,
+        "signature": "3QXfV9QpokvVhEfuqqSnT7B6jt66dDYnsDvR7yHP5QKF8eKVwyvxxcpiyhB8xhnWsrAiRWb9FSK9bMrgjpZ4oQfJ",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5000,
+        "has_jito_tip": true,
+        "compute_consumed": 710,
+        "success": true
+      },
+      {
+        "index": 8,
+        "signature": "4MpuVpmYNFFvBCSbP6ZFHFSi1mVVb4avWiZWLMfsPp6jxnT32TgWBRfQYaq7mHmUJTSEi3aji8k5mumEzWSUHgTV",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 9,
+        "signature": "52TUw6ytJeuFrkL2XokwouC64eHNmUGeRRirCKrHdGHYWyzGHGpA3if34E4bYuiepD57gckt6aXYCGLthSjv8XgE",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5019,
+        "has_jito_tip": false,
+        "compute_consumed": 13,
+        "success": false
+      },
+      {
+        "index": 10,
+        "signature": "5vyzXE686QqoVexqW382R3igFoco7hnGg3QNmgPLoqpwNhD7jZCx19wiPXScjUE67YjGCoMGcgpw1XTru3frspFX",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 7189,
+        "has_jito_tip": false,
+        "compute_consumed": 543,
+        "success": false
+      },
+      {
+        "index": 11,
+        "signature": "5kJvgCbBeNGd9DDAngajVfNEM8QgJrHEHEqRxEvWB4Jg8qUfkUDKFcoxwi9rVMqxYbcKbEsH96rRdvTsCp5Q4pkA",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 10500,
+        "has_jito_tip": false,
+        "compute_consumed": 137,
+        "success": true
+      },
+      {
+        "index": 12,
+        "signature": "416zpi9BCrzV34MUZ21UhH3aAdf23FHJhDb4DhjVo8xJvYsQyqLhLdZ3LHtVqjSTSYKGFJAuhNxTErXWuFvLoJCd",
+        "cu_price": 1000000,
+        "cu_limit": 500,
+        "fee": 5500,
+        "has_jito_tip": false,
+        "compute_consumed": 499,
+        "success": true
+      },
+      {
+        "index": 13,
+        "signature": "4g8qMtP3iuiVdtNnyjRgyKMb1wnSr22Bsk4D62u3VnKu2cnpFb7vdCuSn3p15TUToh65FUGRm5xPuAQySrBQJWSx",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5012,
+        "has_jito_tip": false,
+        "compute_consumed": 19,
+        "success": true
+      },
+      {
+        "index": 14,
+        "signature": "3ocmrFKVugECZi4hzhcCgxYRBJ47U8YpWCbzU88TMfBjTb1huRTwzxPVTvKhEExuZT1ufZ9dkMzGdDVZ944epDcY",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 15,
+        "signature": "2UupFonrkWT72tALaXCq3qJ5EcRTHG2e4mJjPwgqPnuhpvdCJrdCjZyrc5nMgtJdcK9WzhmeMWg6R6UJB8dbAy79",
+        "cu_price": 494071,
+        "cu_limit": 506,
+        "fee": 5250,
+        "has_jito_tip": false,
+        "compute_consumed": 494,
+        "success": true
+      },
+      {
+        "index": 16,
+        "signature": "5uYKHvECnMWjM9Lt9QYLgh5zHvgec6Y5jFSjjVGGug9py34gEmq3A2vC2Bu2LPkMgfzFoApbbz75LJPQkvCCe1qF",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5094,
+        "has_jito_tip": false,
+        "compute_consumed": 163,
+        "success": false
+      },
+      {
+        "index": 17,
+        "signature": "2NA1MjxeLC5cW3ChyDZ4sf3xkq8Bw3TfcgXtnLcpoxKWhKJDCxiifLj5PnnwgLueF7hL6arBrFngbCX7i1mcJjQH",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5060,
+        "has_jito_tip": false,
+        "compute_consumed": 357,
+        "success": true
+      },
+      {
+        "index": 18,
+        "signature": "2P7aaiq9TeXADzaALWwZ6UWqCjbb5aDquJLVAuPqjVmEFd8RwsKXH7bSCmqemYuRH6PQAg3sofA9gDHvwvwGMqYo",
+        "cu_price": 0,
+        "cu_limit": 488,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 431,
+        "success": true
+      },
+      {
+        "index": 19,
+        "signature": "c3V137GygkCid6X3XinQfKqLBr2rqojFCvohALHsfpY7YHFAKinGnhYWytfuJZUbEQGu3ywXF9Bj53ZsRshTYSp",
+        "cu_price": 0,
+        "cu_limit": 1000,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 587,
+        "success": true
+      }
+    ]
+  },
+  {
+    "slot": 462530799,
+    "leader": "CwyVpfmfSiMeCexi3JgUNvaiDfYN14cLDjzT99zcBuD2",
+    "client_version": "4.3.2",
+    "block_time": 1793202115,
+    "tx_count": 240,
+    "jito_bundle_count": 7,
+    "avg_jito_index": 139.14285714285714,
+    "pct_jito_in_top_10pct": 0.0,
+    "spearman_corr_price_index": -0.036201645862235024,
+    "monotonic_priority_adherence": 0.571830985915493,
+    "transactions_sample": [
+      {
+        "index": 0,
+        "signature": "2idPj2yQgVHfNJ2uaAj4GFF2bRwBYrFPYMyku72EHwow3d2LhbaqNoTZc9ZDHoZV2mEgV1KnPbKnsZo5J8TQ3hEu",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 6208,
+        "has_jito_tip": false,
+        "compute_consumed": 1025,
+        "success": true
+      },
+      {
+        "index": 1,
+        "signature": "XU6QacZPySUdUWrB3eEQaNEPdgpu2AsTZkxNNcdpsQcc99QafYgjGJaRUnKCyuMUNHNgHm1uU7asUCAt6P8KWUF",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 2,
+        "signature": "5mGmYSjWvm1pqxzM9Njx39qpEs9AWayXPFWKvhKaHH2KQuwut1zH3yWURWT4CPHnFW4brFUW3dttLVfrMNwobFyn",
+        "cu_price": 1000000,
+        "cu_limit": 1218,
+        "fee": 6218,
+        "has_jito_tip": false,
+        "compute_consumed": 1118,
+        "success": true
+      },
+      {
+        "index": 3,
+        "signature": "AX6Wzdz1NzRDcRoP6YyBb2GND3MQuosW5eiDe322js528usyuaSdo6oGb81W5v9ao9m1zZmYpsRJmPjBeCKuHG6",
+        "cu_price": 26200,
+        "cu_limit": 5000,
+        "fee": 5131,
+        "has_jito_tip": false,
+        "compute_consumed": 2363,
+        "success": true
+      },
+      {
+        "index": 4,
+        "signature": "QkNZ7nkA4e92Y9Nf2efiHTuqC1aKdJrT3NadT2whKBnGZddSba3Fjbq289gekGsm3CWdNMEcK4JR9r2Puv2G7jd",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5060,
+        "has_jito_tip": false,
+        "compute_consumed": 381,
+        "success": true
+      },
+      {
+        "index": 5,
+        "signature": "3sJ7Mg5AmVrXceq62drC7E8cRuzEHbEM8rmEpMU2ja89mLnRvULmmkbPMkydunK8LNQDaa7vgvGyUTYiYnaiRn11",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5135,
+        "has_jito_tip": false,
+        "compute_consumed": 132,
+        "success": true
+      },
+      {
+        "index": 6,
+        "signature": "57Umy9u4eKySzYw9gffUP9xpJ8xoHryYnQrbEeaeNZkSuW8EwVbCSmSMfhM7FZ2pDPogguDNHxfiuSswPhLzQkJa",
+        "cu_price": 157000,
+        "cu_limit": 600,
+        "fee": 10095,
+        "has_jito_tip": false,
+        "compute_consumed": 600,
+        "success": true
+      },
+      {
+        "index": 7,
+        "signature": "5ftaubFW6ZWpuDSwoD1X7FKZWmwoe8aEWAoT35mHy9byfT1uafgyhRs2USAqFXeSHdRxsiEhAEZjE22qgkdjnmny",
+        "cu_price": 0,
+        "cu_limit": 692,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 576,
+        "success": true
+      },
+      {
+        "index": 8,
+        "signature": "3Rw3yrvPTU8M5FTyeapQW22oovwmqcLoNz9sDvhRNHusBtTA7Eyg1ym56UginHSwiUNgSctsSjK51sTKm1uPzY4y",
+        "cu_price": 0,
+        "cu_limit": 2001,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 768,
+        "success": true
+      },
+      {
+        "index": 9,
+        "signature": "4ajrvdbzNr3eWswTLTiy23K9Z8asUvkWixpBWc73qMNtgjQKh1kKVaSwvULzDf9o4QREQqJmJsVBqrjpnQZFBDap",
+        "cu_price": 500,
+        "cu_limit": 100000,
+        "fee": 5050,
+        "has_jito_tip": false,
+        "compute_consumed": 450,
+        "success": true
+      },
+      {
+        "index": 10,
+        "signature": "2zGvzMcnfsbRq2NmfXCRsQgzu9rXzweAuMQMFoPB9rDX7L6YBG89UzsAu1fFcWkCCpAEw34k4YdbbxZTjoFcScfb",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5060,
+        "has_jito_tip": false,
+        "compute_consumed": 381,
+        "success": true
+      },
+      {
+        "index": 11,
+        "signature": "5bxzpWhouFvHSMaVAQoDqPUipExrBSVbr98QUCmHpkdMGvYQ3vLXU3NEtSW6bt72Ggyy1shKbvJ5X3QfkYt3VUou",
+        "cu_price": 100000,
+        "cu_limit": 631,
+        "fee": 10064,
+        "has_jito_tip": false,
+        "compute_consumed": 557,
+        "success": true
+      },
+      {
+        "index": 12,
+        "signature": "548WTETMojHEYTYdkNhwCM89NDv9AYMa6BkbJYVWZ9kL4iLZ1wfWzjm8pACR546CBRteoAi9AT2h4Uuf9k12QLgV",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5666,
+        "has_jito_tip": false,
+        "compute_consumed": 8184,
+        "success": false
+      },
+      {
+        "index": 13,
+        "signature": "4poHb1LkvLc1eJJLr6V4NuQNdcw4xLAodmn6dcA7pjfK1Je18QPJtySE6xvbnEP7kmCzMqxMg7HKitHCzPCYXrRn",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5001,
+        "has_jito_tip": false,
+        "compute_consumed": 391,
+        "success": true
+      },
+      {
+        "index": 14,
+        "signature": "5SWk1xBru4BtGnv2LedQw44Eo7ujLmA3xB8xPmY7chVDy3ST229v1NwKXcroaKWidQMc3M5u7UeuWF3d6gtPn4Jx",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5003,
+        "has_jito_tip": false,
+        "compute_consumed": 21942,
+        "success": true
+      },
+      {
+        "index": 15,
+        "signature": "3xoiZ7LSGKGsCA4TJAvtcYLn1p2Ep68N7VsNMYBgmwAearXhqHrNKkNsyWnGqiehoNAG3Eu67yAtMBjYTnzK54qa",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 15000,
+        "has_jito_tip": false,
+        "compute_consumed": 54939,
+        "success": true
+      },
+      {
+        "index": 16,
+        "signature": "2XAYtd9sREVTb67PYsmiyvNxsCUSYyk8RKZJv8B7b1UvQBsVmH3cqLG3Hdh1sDV7Fm3nG8CtieJfwh6m9ULW3EVN",
+        "cu_price": 8593,
+        "cu_limit": 205400,
+        "fee": 6766,
+        "has_jito_tip": false,
+        "compute_consumed": 92026,
+        "success": true
+      },
+      {
+        "index": 17,
+        "signature": "4zPP1ko27Mrn2gYizxApQQiheNFohxgXtk7Ri9AsAtfX7eFScVAVYqjPWcaafEZBn7RKQtgFppmd9yH4oXH2HQSF",
+        "cu_price": 626436,
+        "cu_limit": 159633,
+        "fee": 105000,
+        "has_jito_tip": false,
+        "compute_consumed": 97394,
+        "success": true
+      },
+      {
+        "index": 18,
+        "signature": "4Y9PbfY5faxQcCC85BM2mSEsDQZy3dy7CrdmTYASenErQKHpvfr5mXQudbepS9dyaa7znLtCcGz8hYSEDdcVcrzT",
+        "cu_price": 6518952,
+        "cu_limit": 137362,
+        "fee": 900457,
+        "has_jito_tip": false,
+        "compute_consumed": 85128,
+        "success": true
+      },
+      {
+        "index": 19,
+        "signature": "38WVpmcDQgGEAxEz8Q1FyEeY8gNH8xFWqqRVHgCNJSG5TDRdxWvT3yPrbcxwNKCDkGzfAK4wY8nvGwjdUGZ8HivN",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 15000,
+        "has_jito_tip": false,
+        "compute_consumed": 48939,
+        "success": true
+      }
+    ]
+  },
+  {
+    "slot": 462530800,
+    "leader": "CV7uvPY1Hk5Avb2NvkGJoUzGnipZrEZK27j5rQJoUae9",
+    "client_version": "Standard Client",
+    "block_time": 1793202116,
+    "tx_count": 234,
+    "jito_bundle_count": 3,
+    "avg_jito_index": 131.66666666666666,
+    "pct_jito_in_top_10pct": 0.3333333333333333,
+    "spearman_corr_price_index": 0.09779930353405693,
+    "monotonic_priority_adherence": 0.6719135802469136,
+    "transactions_sample": [
+      {
+        "index": 0,
+        "signature": "42dwWPTQXmPiLrJm3NS444PyEjFzcWzRcQR3sf3sXHsot2jsHHrmrbaxAYQnF4bzZomtPEZTHTJbEtmdzvHXfvEH",
+        "cu_price": 0,
+        "cu_limit": 83000,
+        "fee": 5000,
+        "has_jito_tip": true,
+        "compute_consumed": 61358,
+        "success": true
+      },
+      {
+        "index": 1,
+        "signature": "N4cUpH2h2FDQANLPb7kTcngsXPXruV7EF2BmNNVHUAJAp8tneebzaFhHs44XJw7pF2f7GwKK9qizcGhPen6Dwyw",
+        "cu_price": 26200,
+        "cu_limit": 5000,
+        "fee": 5131,
+        "has_jito_tip": false,
+        "compute_consumed": 2363,
+        "success": true
+      },
+      {
+        "index": 2,
+        "signature": "4xjLou9aCKLainXJ3kEi5wMQ5DmKs1uFHrmQuE5Cy8E94cu9hPW96wZ2zKSggCWa9LMbSR4XjVYB9Cm5kqDFufp5",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 3,
+        "signature": "2ZHrzW2RpdueDbUxe3YySXztxSAXQ5rVmKx3J8WwAWT2hFHqj6aX2uw9354wqkVdNNJhX49SfkxURSxZSMursP19",
+        "cu_price": 1000000,
+        "cu_limit": 1218,
+        "fee": 6218,
+        "has_jito_tip": false,
+        "compute_consumed": 1118,
+        "success": true
+      },
+      {
+        "index": 4,
+        "signature": "5MgnFFqcwNLj3SvRnr3uARSLudX3dh8D1pJtBkFS9De82axuL4FhC4oh3tiTThskknQkRZoMVynBSY5eAWqUUXYV",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 5,
+        "signature": "2xCYyj7e2ibdzZ57D1WHEMRuMwDgmLRf8BPG2krKW7QRjK2P6FZ9m8Xf4Gs5oiV9kDujdzzM7XyC7xjzBzVGF9P9",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 6,
+        "signature": "5HSV6k3tZUb4G5nRAsBDVzp4itusnj8251FCgYvrH6b3gqhAmFA9mT5yuez27rraja3HWCuBijUUnLhnaoRT5Gaj",
+        "cu_price": 1000000,
+        "cu_limit": 319,
+        "fee": 5319,
+        "has_jito_tip": false,
+        "compute_consumed": 319,
+        "success": true
+      },
+      {
+        "index": 7,
+        "signature": "Ai52y1Kfuw5KdkQqoeddj6xvtEMBaVY37pjYw2Qs61Mw9TEALuy5wXVd69Z4Mkcrz7R6C4UDjNDnnboMy91Nt7r",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 8,
+        "signature": "4HSsxHDedmUjxrxE8peenEWazxAjJtPiFxdwAPCgnhi8N7rSP8AdAotqp8SpNh41YRg3gFp799aBmSKCYZbjHGqi",
+        "cu_price": 1000000,
+        "cu_limit": 338,
+        "fee": 5338,
+        "has_jito_tip": false,
+        "compute_consumed": 338,
+        "success": true
+      },
+      {
+        "index": 9,
+        "signature": "2BPjPd5aQq36tPch72ND5GA2UpNUxcKJhChjz5nadakaDG18b9jmKzwPeMz5EjEGwHmnv3a26e4LrGhp6yFXz5Zs",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 410,
+        "success": true
+      },
+      {
+        "index": 10,
+        "signature": "dtisTL8KCxxoYhy9NNRRLPKjGtKZNer2EJMpsUK8GWxeHMm6UfwzkHD4VWhhfAn4ywzG1BKRL91WzegFNvsJBx7",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 6242,
+        "has_jito_tip": false,
+        "compute_consumed": 1105,
+        "success": true
+      },
+      {
+        "index": 11,
+        "signature": "4E1C8SJkRBHBt3sEko4cSxks5kANpzwqWujTsUNEemNXSxgwjqpHNU29yPrKsFLKMvfNfNQ6eQQGoVvkhwQr1qs1",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 410,
+        "success": true
+      },
+      {
+        "index": 12,
+        "signature": "667durUKMSxJ9RGwCbfzH2J6Yc7Wfq1u2MAP5TR9b57oE2edmHzT9vb1EfffWLEZCdu1pP3VpmwFHq7cFCotWUqk",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 116,
+        "success": true
+      },
+      {
+        "index": 13,
+        "signature": "FB3s4XXp6KZ6t3XCfb8m7U6yULmpfw3KDyXDmK7Z7Cfi4NiBTEyA22CamedVhwGUuL7hi7iYbVC6XmpUxyAuSsy",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 415,
+        "success": true
+      },
+      {
+        "index": 14,
+        "signature": "5rDaZBivnbgic6ESh93oFaB7bbJsD42aejFazr3ebd9wouEZcZbhfC6fRffLxP7Y6ihMiNuj6Thwx1R8am3Wj66Q",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 415,
+        "success": true
+      },
+      {
+        "index": 15,
+        "signature": "4gVQPs8tZ9gDXtYQBPmbZXJvVnP2n6TYD3xjhDGMxNNvmtgRzzcRdBbfUxQECFpifTg54X5P3e7tcKscBCMTuC8",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 119,
+        "success": true
+      },
+      {
+        "index": 16,
+        "signature": "PZFBqbyLDRvRUj4K2bP6abCVrvSRrGnaLHK44pdcAugZd5kEbenAEnhyUKt6GrLuQGipkpTui8ehZtYaz8Z5qjB",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 415,
+        "success": true
+      },
+      {
+        "index": 17,
+        "signature": "4ENWxo9RnJCsxcBBsp9nm8pUhCryez5XxeCRbt9FmraHzPXW4WskgukF7xAtNuUhuRxgSxTv3QfiBkAgJuJSSbHB",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 415,
+        "success": true
+      },
+      {
+        "index": 18,
+        "signature": "4yhdHGUn3Ucsd2yffiXUMRKSZsBATofJPWQdQsjNa6AnfBMjHKsvwV66bZemrCFhYW3qX7FKUj3Ep4ruMBfHaQBT",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 415,
+        "success": true
+      },
+      {
+        "index": 19,
+        "signature": "4iGMrAt7WSW9iJxhdBBCDkuFnwomK1F7QDK2hGeVxgwMcTEuUwoW2iZjZfSfEeSULe4mWiV6jGEB8Hyzx8o3aDvN",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 8005000,
+        "has_jito_tip": false,
+        "compute_consumed": 72720,
+        "success": true
+      }
+    ]
+  },
+  {
+    "slot": 462530801,
+    "leader": "CV7uvPY1Hk5Avb2NvkGJoUzGnipZrEZK27j5rQJoUae9",
+    "client_version": "Standard Client",
+    "block_time": 1793202116,
+    "tx_count": 204,
+    "jito_bundle_count": 4,
+    "avg_jito_index": 146.75,
+    "pct_jito_in_top_10pct": 0.0,
+    "spearman_corr_price_index": 0.11176566562730379,
+    "monotonic_priority_adherence": 0.6179811749432003,
+    "transactions_sample": [
+      {
+        "index": 0,
+        "signature": "4R49zMWooZUU97niSzgAAXvBXhePr3KxZfTmaKgmppGUuHVXsJFYzEBY4Yf9SyAf2Zmw175fyvEPkYrq2LnCJPUW",
+        "cu_price": 26200,
+        "cu_limit": 5000,
+        "fee": 5131,
+        "has_jito_tip": false,
+        "compute_consumed": 2363,
+        "success": true
+      },
+      {
+        "index": 1,
+        "signature": "f5KSkjq1rvzr87ReCSafYcGxePMRh8iL2Fh6EqP3CLMUohxccPXjxw73MLQn4WDM1kM6t5bMD3Ygso42hoV5vga",
+        "cu_price": 1000000,
+        "cu_limit": 1218,
+        "fee": 6218,
+        "has_jito_tip": false,
+        "compute_consumed": 1118,
+        "success": true
+      },
+      {
+        "index": 2,
+        "signature": "56yJ1BjqnCgXuqpEZ45ehjeQPN6Eq8zBRq1PURjyixnuFH9AngiD3iZKsvGSXEgdHPXK8MAQ9fTML968Y8vq8Kgq",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 6242,
+        "has_jito_tip": false,
+        "compute_consumed": 1105,
+        "success": true
+      },
+      {
+        "index": 3,
+        "signature": "TiYMAaa7e8AbuCNy5oEueJFfaxzi8BRGZNoyWNeQnPmQ288GLQvYtDH5saQAXDA28f2Pw4BBtLKBbNMCtBdb8qT",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 4,
+        "signature": "2QDMrUVbrjEgHALAKTZ8zV8Peu1UgRQjebcxWbFgJjQQ3VpqRHt9w5MkksYbHfKmSn1UobS1R8ZG1hvWEf2A1BLc",
+        "cu_price": 1000000,
+        "cu_limit": 319,
+        "fee": 5319,
+        "has_jito_tip": false,
+        "compute_consumed": 319,
+        "success": true
+      },
+      {
+        "index": 5,
+        "signature": "41ViZGeHhnWMh4uK91XvH1MaEnuXjb1BL9cniFNoLXFrLxJuzbAKN4vRF7qX6bG45zYhBPF4QVq9Lw1EfnN8HyNP",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 6,
+        "signature": "3KbLfHBeqUk3iuUUVMheBMFbUFnYv6LDVLncdJi3F6dUThuFyRCzMqLMu8SdNpkbjYqF4ezhLAWyWeBDS5Xvkkau",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 119,
+        "success": true
+      },
+      {
+        "index": 7,
+        "signature": "5kwVPAsiavxsvafis9VnDqUMieUbz42QbNohDf8xNoJBCSJPe7iWMR9kQbGRNCX1yvWGmrgHDMMZs3oLMsUWtbce",
+        "cu_price": 1000000,
+        "cu_limit": 338,
+        "fee": 5338,
+        "has_jito_tip": false,
+        "compute_consumed": 338,
+        "success": true
+      },
+      {
+        "index": 8,
+        "signature": "4aUCCR7ZrZDVMoaxTxHq1yvyFDVrrF5r3GkXSckdLN6rPd1g9Yu67yQebSqMUpNJuajUK7jBh3LEubyMKeiHYuPC",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 9,
+        "signature": "3HBHKiX3kCD8XjTdAZ38EpTbjFpdBqc3W9vPBavND4iqDcNrCoeRrjmEbUXKgScvrpVGwmJPaTkVw3UkagAkpmc8",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 116,
+        "success": true
+      },
+      {
+        "index": 10,
+        "signature": "5Tmm7RUTK3cENpFoVio798YVpJBBtrMbnYQWwv81FSbkxiCzXu2WADy88nikxoSuAf6viCTyHi9dvMyRXzJVBDEs",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 11,
+        "signature": "yvh1mQqbKApbTfo1GMZRnvTfpA6L3P4LJcAwYpK6cM8S9dhhnsFHfp9RmHSHKWoeJz5sjdH1gqvHsbFHUZLw1am",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 1005000,
+        "has_jito_tip": false,
+        "compute_consumed": 4621,
+        "success": false
+      },
+      {
+        "index": 12,
+        "signature": "4Ps4J5f3K4pRG8JTkcMrbJLRdGtCoVQoWZ3CYxse1Cqo2NVQRi3sfE2j2zC5ZKJwcLfpfDwBJ5itzQhD35nb5Q4x",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 13,
+        "signature": "5uGq1ENDkpCaJ7EkVZTVUXCYXbeYYPVkARUf5XY48aNRQ1W6LvuuvCuRtodSPFKZBTV8TqLqyy2sBvHAkfMEZVu3",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 7574,
+        "has_jito_tip": false,
+        "compute_consumed": 135,
+        "success": false
+      },
+      {
+        "index": 14,
+        "signature": "2KDo1kP82yHmAwgHnfbQuyi3ggiLuHGXCyh2MaycA8CNvLsW7TmDjciXwpWn93uKfmB443TnR9Wv8RUfb7FRkhXb",
+        "cu_price": 100000000,
+        "cu_limit": 500,
+        "fee": 55000,
+        "has_jito_tip": false,
+        "compute_consumed": 450,
+        "success": true
+      },
+      {
+        "index": 15,
+        "signature": "57BXUU8UpBmc2XYdbfbphHaLVTi1vs87fh2gW3359oVGQ1msqBZzs6Q37DmrMiTBDYoYtYDroLwLFJsmdMYzG4Uv",
+        "cu_price": 6130754,
+        "cu_limit": 136399,
+        "fee": 841229,
+        "has_jito_tip": false,
+        "compute_consumed": 100161,
+        "success": true
+      },
+      {
+        "index": 16,
+        "signature": "4WdUQReepx58ATodcbQxHyqNFTkXQAgSPjaQFWy5qWtHCcPra3UXVPWvd893G4cKeKTKF9hAYBQ9VVtTm9KUWcja",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5012,
+        "has_jito_tip": false,
+        "compute_consumed": 13,
+        "success": false
+      },
+      {
+        "index": 17,
+        "signature": "4dmH1gXCgEKmUmMAZTtrbkryWRedng2TnWkUdHYAnSvWkQK7hNSCBS17d7vH1a3m8tb2V8EpkpwRxrUfb2QSGP7C",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5074,
+        "has_jito_tip": false,
+        "compute_consumed": 37,
+        "success": true
+      },
+      {
+        "index": 18,
+        "signature": "2jgMcofXe52w1T3Hwv9PHvZa4HAFKaanLzVien77mDqqVaripydxXjZWbXiotYeZWt9xdSD9dzszojoV4SJN68Rh",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5010,
+        "has_jito_tip": false,
+        "compute_consumed": 19,
+        "success": true
+      },
+      {
+        "index": 19,
+        "signature": "4VBpp1WvgFTy5QKQJpkL4a7a34KkGRKB9k169gXXe7fK63UqmfKwr4MJkff44KBDjzY1QzqpGJw5zdHxCxEhFZ7N",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5004,
+        "has_jito_tip": false,
+        "compute_consumed": 19,
+        "success": true
+      }
+    ]
+  },
+  {
+    "slot": 462530802,
+    "leader": "CV7uvPY1Hk5Avb2NvkGJoUzGnipZrEZK27j5rQJoUae9",
+    "client_version": "Standard Client",
+    "block_time": 1793202116,
+    "tx_count": 213,
+    "jito_bundle_count": 11,
+    "avg_jito_index": 128.9090909090909,
+    "pct_jito_in_top_10pct": 0.09090909090909091,
+    "spearman_corr_price_index": 0.03178900281821264,
+    "monotonic_priority_adherence": 0.5218018018018018,
+    "transactions_sample": [
+      {
+        "index": 0,
+        "signature": "2QU13jwtJVtEMnTKTXCa7Uaby3fXUp6S4jC6wMUnKNMynbfKLxM7bbpBGYSeeXkj58NuVWitme67ew6cE5wgtGdR",
+        "cu_price": 26200,
+        "cu_limit": 5000,
+        "fee": 5131,
+        "has_jito_tip": false,
+        "compute_consumed": 2363,
+        "success": true
+      },
+      {
+        "index": 1,
+        "signature": "2WktjshcfKij4GvhyYd2aoeQkfEM3sPjJe4ynRFtxhDLoamS2XLLJ2sgQxgXcDAbGSH459yNqTgoWj5239cyMayr",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 2,
+        "signature": "2vRjAEHQYqqjS8chJE8fL7hYCdZmiNEc1jqafkc2EH42ZA74nxgQ4toJsQBUtWTT1dELXz6e6pzgmrq7A3DE5xQc",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 3,
+        "signature": "64xjEGmy2VaE3PDy9osUiYKwDoJU1WdjJspw1MoZzKURNTiiopqLfLvaFBzbGTZ45RtjE17EqXDFRVr8L2EfTvKu",
+        "cu_price": 1000000,
+        "cu_limit": 1218,
+        "fee": 6218,
+        "has_jito_tip": false,
+        "compute_consumed": 1118,
+        "success": true
+      },
+      {
+        "index": 4,
+        "signature": "nq8XiXcUL5ZaHPdZFbZW9BcmSLGXFK6H9ZY6CyNXAPiL99JQBybuWfyueCeoBnUwrtshJ98nX8zPN7k4QKKfKgW",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 5,
+        "signature": "4tJZx8VLa5HyQVCBE94akSwb2voEEnNxLJH9FYNmjjPW5cUs6RQ5fXqQqPsXsvzdMdMPtxxMcFrjtSxsweCnHPis",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 415,
+        "success": true
+      },
+      {
+        "index": 6,
+        "signature": "ZMeN6QrcRnA5RBacTAFy4hxCuLtsTWqUArcxCcSZqD9Y8w6yM8ZsLdnQL9DsJxGF4CUX3Ef3vB3qToefkWLgy9x",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 7,
+        "signature": "2qtP1EnEruwLfwikYqwxw9p9Y5scWxPhbJNPDqymTKsGzyqNhYx12qVnLQmErb6yEf6HRC3KdS2BVJ5TMttMJQ6U",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 6242,
+        "has_jito_tip": false,
+        "compute_consumed": 1105,
+        "success": true
+      },
+      {
+        "index": 8,
+        "signature": "4SXH6ZzawrNafXbu8wRicVWWD2XZ8QBN2sGATsZGU5Pct1LjAMK6ef9DDNuABYvwb7LoAFK7iUAsbYL6TBs7A9wc",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 415,
+        "success": true
+      },
+      {
+        "index": 9,
+        "signature": "2eN7yeaZL7SSgtvYJNMEF8nam3t1ram4bBgPKQ24NwrfHX6VESmjvcx1SSKp12wDYxQ5aouNLsec9GXBAzUTqrVL",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 10,
+        "signature": "42uLPMyVo467CuJbsowyzfgbTxTqVi6jzWY9juDCm9MKSLXJRBb1GCDRdvooSLxRG1oEodWyKeBWphznn74MzTiD",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 415,
+        "success": true
+      },
+      {
+        "index": 11,
+        "signature": "4YALcj2ZpvpyGCGE1DcTZTDRHtmiEeo2ayLgRxnpHtdAdyAXDXJ5o4MTkPx9YWM9hMj4jFR9WK9y9yW21oAejfCm",
+        "cu_price": 1000000,
+        "cu_limit": 319,
+        "fee": 5319,
+        "has_jito_tip": false,
+        "compute_consumed": 319,
+        "success": true
+      },
+      {
+        "index": 12,
+        "signature": "26AwsGAFBUEahD4wYiJbpVE7EfGQfEoeUgaZyYsri7drFiU61EvvjNrh8FNYLF4bGUqbFYrb6FbyiNXcyHeT9pZm",
+        "cu_price": 1000000,
+        "cu_limit": 980,
+        "fee": 5980,
+        "has_jito_tip": false,
+        "compute_consumed": 536,
+        "success": false
+      },
+      {
+        "index": 13,
+        "signature": "5nxxN1RC2DTyag3FeweUiu1y9T8yyjtjjkynQiuqj3HsrJVcfwABULPqmZTf49oT3hkMjSUoJMK4w6Bd1HjicHRN",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 410,
+        "success": true
+      },
+      {
+        "index": 14,
+        "signature": "48R2arEgHnzuBa2xGR9tnU6K3SDwxJLMXgo7fveedGxGJsXFuHCEtErX58dB9yxNgy3q3GWAVZPnd8xEDbnAxP66",
+        "cu_price": 1000000,
+        "cu_limit": 319,
+        "fee": 5319,
+        "has_jito_tip": false,
+        "compute_consumed": 319,
+        "success": true
+      },
+      {
+        "index": 15,
+        "signature": "5SVtKqB6J1XXDfCobUZMss3HdMTTW98q4d268VsXsAHocxRX5BWrNCmyEtsazZZKh5P2TjA8aQWzAXUDFN9GQ16R",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 116,
+        "success": true
+      },
+      {
+        "index": 16,
+        "signature": "5HvmvCoCNYPtr3ZDPJyJir8gAwooK2CxP9mYQrGZgVjtUdbHqJ6xuDMytbpEsPVSkZkmbrYyzb1T8q1PiwQYtKUV",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 119,
+        "success": true
+      },
+      {
+        "index": 17,
+        "signature": "53JrLnKXWRNiRGfekkZGEWqQagVU2ZxaNE11quqcmx2SECHHDumxHPjgA4dr5HrDRgFYCARGm7e3g8kAAbLjg9dn",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5000,
+        "has_jito_tip": true,
+        "compute_consumed": 686,
+        "success": true
+      },
+      {
+        "index": 18,
+        "signature": "4c4MfA2DNUi6VfnWtvDaZhFkVqXDEUfTimk2MCBTH2FJxR73ZwsEwKkiK5GQieMqqHr124x2Qejk9pDu1SrVEyRL",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5006,
+        "has_jito_tip": false,
+        "compute_consumed": 13,
+        "success": false
+      },
+      {
+        "index": 19,
+        "signature": "UtNyq9MsBJXM848WkWkVgirxv2SsUHmBkZGUZdUpinCpH7fPKzFvg5hWXVNt2apbuFqfbawKj9aTNEAg5uyALQx",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5004,
+        "has_jito_tip": false,
+        "compute_consumed": 13,
+        "success": false
+      }
+    ]
+  },
+  {
+    "slot": 462530803,
+    "leader": "CV7uvPY1Hk5Avb2NvkGJoUzGnipZrEZK27j5rQJoUae9",
+    "client_version": "Standard Client",
+    "block_time": 1793202116,
+    "tx_count": 238,
+    "jito_bundle_count": 11,
+    "avg_jito_index": 128.0,
+    "pct_jito_in_top_10pct": 0.09090909090909091,
+    "spearman_corr_price_index": -0.036861900151919764,
+    "monotonic_priority_adherence": 0.613664596273292,
+    "transactions_sample": [
+      {
+        "index": 0,
+        "signature": "5p3gchopWQ9SE7XMRDDJDu8bJXV4BtaZomtEbMuALYZGU3MK5HFJFpPt9pMQtFaN6azaMrRizK8SskzLYsMyV7kF",
+        "cu_price": 26200,
+        "cu_limit": 5000,
+        "fee": 5131,
+        "has_jito_tip": false,
+        "compute_consumed": 2363,
+        "success": true
+      },
+      {
+        "index": 1,
+        "signature": "5mChuVoDvQaXVuGimkfWSpnd5XjUvpmhtsFYqfjuq7EZrk9AcPTCum6ZYTSFq7qNeTo35BMNZEsXoCZMKBftdCsV",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 2,
+        "signature": "33rT8gV1FSyR4NLXW3TEHWPf5suoquXt2zPzTAzr15uD7r5G8pTcffNz3Y4R91yJpUpswQiiA53PBVQDyirgjHkr",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 3,
+        "signature": "CjyK4Y9mso5owySiwkuArf9mVuCMdQBXmBxH7QqxCKbYHqasopfd2frUuWDxoiURLfrWQMjtZoFZ8Tid6y5RnVV",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 4,
+        "signature": "LEjcoEMwn9PfThroXJP1CuY4ocwd2DmSZwKHVDFwxf8ciH1ngqus5pCfkXUrLQjsuVYHfUo5foDTn7fMzmKnHyq",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 410,
+        "success": true
+      },
+      {
+        "index": 5,
+        "signature": "3bcZP74PHRSs6TXpoUbKq8SeBrmqXjVVQthSyAHn1Kiy5pVJbcXtnv4mE7Ewieo6JiBNEwm2xJceS9idL7rZTByy",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 6,
+        "signature": "5tHmJ99B7HV6J2rooB6tisW9BBusQhSqqDpBcyw6eGgrf84he1jTb46PpQCmvZJ7DdK5B3fyJBJm2tKswpU9YTLU",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 7,
+        "signature": "xEDDgQVY4kAiLYM9zmVtyac4jCSoLFKUyKzpdZchVTRzghfz9zx5vUH8gB6ZwJVwXs1Bxf3EsaVx86U6EanXqeD",
+        "cu_price": 1000000,
+        "cu_limit": 1218,
+        "fee": 6218,
+        "has_jito_tip": false,
+        "compute_consumed": 1118,
+        "success": true
+      },
+      {
+        "index": 8,
+        "signature": "2kn6CLW4dKJ13BaomjfiDZ4rDgwM1of6Qu9WQY6MSScSG27Bpd63qsYLUhmdHqQuAm8uwuaPcmXHkxRNLJVRYv9o",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 9,
+        "signature": "eRV4vnuHhEZiN3bJi8bz52aQcGbZTFA7vG8LGxKzRmKfTCoVe6JyzpQLD7wUG7sXahpwQnrTWqEFWbTxkCj1ye2",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 6242,
+        "has_jito_tip": false,
+        "compute_consumed": 1105,
+        "success": true
+      },
+      {
+        "index": 10,
+        "signature": "5RhJ7CpLxaDZm8XXWbvHjYBQE3xnVpJz925N6fhRMxEX8ATkQvP6DszLx5eqPsypcCFV2qLx1ZQ1gDdHYMBnp3pz",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 11,
+        "signature": "2x14H89e86hfhkWdcdZDxmZC8zbSexsuSHPifxThkPTKLnyBA1AkMV4qS97NxiJfVrLUYbkwwtsLnya31ZQagm2G",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 410,
+        "success": true
+      },
+      {
+        "index": 12,
+        "signature": "4y2kSyUjC2hRt54zvZCETApaRErKdMw9CetwWb5wjw58uFnLLDjsyLvA9pwA6Ysa8yRjhPPt4V7FRCeoiU3Wkxrc",
+        "cu_price": 1000000,
+        "cu_limit": 338,
+        "fee": 5338,
+        "has_jito_tip": false,
+        "compute_consumed": 338,
+        "success": true
+      },
+      {
+        "index": 13,
+        "signature": "4TGqgbjiM6bx8PHmngH1pCQEc8oUWhfLaev8mTY35w4pKecGoVGKsotYNRAWcpTwQq8hVFryhcUvfc2hB4J5xxYL",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 7148,
+        "has_jito_tip": false,
+        "compute_consumed": 171,
+        "success": false
+      },
+      {
+        "index": 14,
+        "signature": "38qZTAgDSWtDZdKm4BfbpGB9FFMYceRJyannntoZXvUgaJSAr1E26ZeVYRoV7TpdFpZMQSMoFXfccKHpUbtR5wLb",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5127,
+        "has_jito_tip": false,
+        "compute_consumed": 116,
+        "success": true
+      },
+      {
+        "index": 15,
+        "signature": "4RJi7ggQAWqd3dxdCZQ4ovdezWPLU1qvWtnkwahjpZkVmjxZhwT4YA8Dte5qryiU5urokLgEDE5GRdq5HjiYmLwo",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 410,
+        "success": true
+      },
+      {
+        "index": 16,
+        "signature": "3GRhhSCUi1RJHkR7bcn6Udqsn4xsz8gQ5FeKvRDJogJZSNcjs1NkaQHaEKCP9PW6YbeebNzqrVMcspZRDgSFoTDu",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 7148,
+        "has_jito_tip": false,
+        "compute_consumed": 171,
+        "success": false
+      },
+      {
+        "index": 17,
+        "signature": "4shtJvGDf7bPewcTEv54dDV3ywZSPt9x1oSFajNsFTdcP2mHhcAm2FpZLpivUfeDJdjs946iJaUEFN2Ss7CR4Wop",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 24,
+        "success": true
+      },
+      {
+        "index": 18,
+        "signature": "51b1brnmwRermDarvgNAzbM1KKydDvAZxmK7cGrEZHbF8JaPRskdBawUh44CR4KubnTAcD6ASfJnCbLcC428gfnL",
+        "cu_price": 1000000,
+        "cu_limit": 415,
+        "fee": 5415,
+        "has_jito_tip": false,
+        "compute_consumed": 410,
+        "success": true
+      },
+      {
+        "index": 19,
+        "signature": "2NMKTCwuFH9P8nmM5AKkLSshzHwNvhqaR88gqBhMYupKdoAnZGz6SJfJAhLebmRFVWpL9ZveCDJrVQ9QZC95Joc1",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 7148,
+        "has_jito_tip": false,
+        "compute_consumed": 171,
+        "success": false
+      }
+    ]
+  },
+  {
+    "slot": 462530804,
+    "leader": "Fd7btgySsrjuo25CJCj7oE7VPMyezDhnx7pZkj2v69Nk",
+    "client_version": "4.3.2",
+    "block_time": 1793202116,
+    "tx_count": 613,
+    "jito_bundle_count": 13,
+    "avg_jito_index": 301.7692307692308,
+    "pct_jito_in_top_10pct": 0.23076923076923078,
+    "spearman_corr_price_index": -0.004738862544323607,
+    "monotonic_priority_adherence": 0.5710532600907572,
+    "transactions_sample": [
+      {
+        "index": 0,
+        "signature": "31frymx6QyGakjpkuSZzK4MwozbcUAxtVutFU8NXFhS7NEUmrzTFSgFjLGZyrER75AhJsdbkndctfAoP2B97j5j4",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5000,
+        "has_jito_tip": true,
+        "compute_consumed": 61209,
+        "success": true
+      },
+      {
+        "index": 1,
+        "signature": "4A8SfaSsWQ3mkcGqnTHSGtq1t9d8RToZEeJnbduEzTvn9mBCGHLEjfjunbeMRcZ6umi6FVmC937Kf6eLWMrkCtZM",
+        "cu_price": 0,
+        "cu_limit": 800,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 512,
+        "success": true
+      },
+      {
+        "index": 2,
+        "signature": "5rxjxWXjKDFgtRQRrGhU4S4vxTM7FPKF6zwLmyQ9jFhqxSaJiv1Pdfd3k2TV1qJjx1KS1YxgpVDHncKn4BfQdGEc",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 4,
+        "success": true
+      },
+      {
+        "index": 3,
+        "signature": "2e3gawLBpgCxiJrw5tN8GHRvkCsXNjNmbtNFH3vgyUcyvG7d3hsY9WauMCtWEXjwHRxrsJK3Q11HGyQb5YPNDxom",
+        "cu_price": 625000,
+        "cu_limit": 8000,
+        "fee": 10000,
+        "has_jito_tip": false,
+        "compute_consumed": 1766,
+        "success": true
+      },
+      {
+        "index": 4,
+        "signature": "5JQzSrpZhWy9tD51ntwmo2erwDoWeCouNrCfozFURor23ycnaLxdSZ1d234wof4g1NFqBxoycoc6cTjNSS2dEcZo",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 1105,
+        "success": true
+      },
+      {
+        "index": 5,
+        "signature": "2rvgaqkhSS9wE4EaoyytPV8RC3Kraq6MpBuLkLLbdp8hWAoXcNSJSgt3Xsn4V8NZZkaabrmuvAWYBiL4fDD5EtPL",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 4,
+        "success": true
+      },
+      {
+        "index": 6,
+        "signature": "LXv6AXt7PvTEvHiEHoy2FnjMWBx6nuuKf2HJWn3ZXbA1vYcBeYbb51iC9VYpwtbXsi7LCPPvrmx4Tt1cHE5tmED",
+        "cu_price": 0,
+        "cu_limit": 800,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 205,
+        "success": false
+      },
+      {
+        "index": 7,
+        "signature": "3F33MY5mYR4oLcaebjKFp7ho3fchD7MYnrGQeymMtTjJiERw1r6MfeCZkFhXjDYyBhwFywFL6jxhCVSv413b69FM",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5050,
+        "has_jito_tip": false,
+        "compute_consumed": 137,
+        "success": true
+      },
+      {
+        "index": 8,
+        "signature": "2UjiBix3rDmkLZqeodWSnGaWg8PLtWW83m5vLmJgkUyJEUkqFp2XskVP8FHRwJMS3BPRqu65DgShWsNnnk8Wk14p",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 2063,
+        "success": true
+      },
+      {
+        "index": 9,
+        "signature": "5RAp7gR6qkN9FWs2FwhJGbxEaPAhUiqY1cJBV3cSF5RRAqDuYMyksDRp6r1CEmHW8zGsKS1ptBGfCZsZGTikbwX4",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 442,
+        "success": false
+      },
+      {
+        "index": 10,
+        "signature": "2MW5UXaBs7PEuPAZMKkYz8SmbWg2fxFiCj1BCrmMXtciMVWWyDXhvcNt3u4qDSgwxN596uhv5hJtUZ3m1bjoRU4k",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 4,
+        "success": true
+      },
+      {
+        "index": 11,
+        "signature": "2mECfzJ15jUWhwLBebHJg8vaWFjkufDicuf6UFB9hGqKTB24FfPpnUY1ktzsggMHy9P1KSJY1TCKP5iJbLFcKD4j",
+        "cu_price": 142236,
+        "cu_limit": 1760,
+        "fee": 5251,
+        "has_jito_tip": false,
+        "compute_consumed": 1721,
+        "success": true
+      },
+      {
+        "index": 12,
+        "signature": "2ZD7jiCcmC1tdQGmHbhcVgsy3m17QU5265LPYQrR82wJr22jPpo6FfcreUyh3s9t76Mt87prCBC9FMeuNxiHgeyq",
+        "cu_price": 1632653,
+        "cu_limit": 490,
+        "fee": 5800,
+        "has_jito_tip": false,
+        "compute_consumed": 486,
+        "success": true
+      },
+      {
+        "index": 13,
+        "signature": "5yrtxLZmJUUVYrGjRHzArx5oz4uv5TKmyJLiPryrSf7sMWKjRp9QSUtsxz2k7TV1rTDMzzpSfAdBiKytVcNWdi5C",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5050,
+        "has_jito_tip": false,
+        "compute_consumed": 137,
+        "success": true
+      },
+      {
+        "index": 14,
+        "signature": "4ZCiHj4BUpZCzGZFQs1cBeWrR2PVwCxwS6884eqRSvRZV2zzV6WkFZAkvueQm3J1SBo8mp9mP3P8XEZ9bc81g1yW",
+        "cu_price": 0,
+        "cu_limit": 800,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 521,
+        "success": true
+      },
+      {
+        "index": 15,
+        "signature": "46pFTXJGxH6DUcJxgW6QAHPqMAy4RTsLdqzfdg3eh6s3o6iSLiZ5Kd7Kzu7QVGyypfBfwqPPysHrjMsjrNVYvGic",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5007,
+        "has_jito_tip": false,
+        "compute_consumed": 19,
+        "success": true
+      },
+      {
+        "index": 16,
+        "signature": "DBESiA71uLRdbTZchTMRH6b3T362g9KUSyzt5KuWMd3QScVYSAKkNZmzju1TxcSpK2w9Gq3n35ETmE2BwrjUXSm",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5000,
+        "has_jito_tip": false,
+        "compute_consumed": 442,
+        "success": false
+      },
+      {
+        "index": 17,
+        "signature": "uy6kjeDZqEz6csjb9Rq5KSVYE2kuvrSXeoVe8EQqzEcjJmJgfTXEfUMEr3VgKcxP6XecVkJvA962KcwgwCXPPWq",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5200,
+        "has_jito_tip": false,
+        "compute_consumed": 83,
+        "success": true
+      },
+      {
+        "index": 18,
+        "signature": "5UYPjzJP4YTUbPGjjnvG8si9xfjfw9XcrHfuS61xaRn9CfRV8uceuZsnKaakbauBJXPS3omkWH3x9XUa83e4oBzw",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5324,
+        "has_jito_tip": false,
+        "compute_consumed": 4,
+        "success": true
+      },
+      {
+        "index": 19,
+        "signature": "4TD6rfk2TQn5BkESER6Q9uNiNKixPcQXWoQWMT3zWz3qPVQnt4S4BykWttKWgZUFB75y4bqmuQncjJTY5JEwUg7u",
+        "cu_price": 0,
+        "cu_limit": 200000,
+        "fee": 5070,
+        "has_jito_tip": false,
+        "compute_consumed": 645,
+        "success": true
+      }
+    ]
+  }
+]

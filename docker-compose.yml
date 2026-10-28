@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  solana-validator-order:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: solana-validator-order
+    environment:
+      - SOLANA_RPC_URL=https://api.mainnet-beta.solana.com
+    volumes:
+      - ./data:/app/data
+      - .:/app/output
+    restart: "no"
